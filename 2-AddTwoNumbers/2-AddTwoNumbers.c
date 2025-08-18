@@ -1,4 +1,3 @@
-// Last updated: 8/18/2025, 3:36:31 AM
 /**
  * Definition for singly-linked list.
  * struct ListNode {
@@ -19,7 +18,6 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
     q=l2;
     int carryout = 0;
     int num1 = 0;
-    long long num2 = 0;
 
     while (p!=NULL && q!=NULL) {
         num1 = p->val+q->val+carryout;
@@ -91,23 +89,19 @@ struct ListNode* addTwoNumbers(struct ListNode* l1, struct ListNode* l2) {
         }
     }
 
-    struct ListNode *a=NULL;
-    struct ListNode *b=NULL;
-    struct ListNode *c=NULL;
+    
 
-    a=NULL;
-    b=s;
-    c=s->next;
-    while (c!=NULL) {
-        struct ListNode *temp=NULL;
-        temp=b;
-        b->next=a;
-        a=temp;
-        b=c;
-        c=c->next;
+    p=NULL;
+    q=s;
+    r=s->next;
+    while (r!=NULL) {
+        q->next=p;
+        p=q;
+        q=r;
+        r=r->next;
     }
-    s=b;
-    s->next=a;
+    s=q;
+    s->next=p;
 
     p=NULL;
     p=s;
