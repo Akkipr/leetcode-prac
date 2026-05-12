@@ -1,9 +1,9 @@
-# Last updated: 5/12/2026, 12:00:18 AM
+# Last updated: 5/12/2026, 12:13:05 AM
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         s=s.lower()
         for x in s:
-            if ((x >= "a" and x <= "z") or (x>="0" and x<="9")):
+            if (x.isalnum()):
                 continue
             else:
                 s=s.replace(x, "")
@@ -14,4 +14,5 @@ class Solution:
                 return False
             j-=1
         return True
+            
             
