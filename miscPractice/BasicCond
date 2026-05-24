@@ -1,0 +1,18 @@
+def analyze(times, avg):
+    down = 0
+    
+    for time in avg:
+        if cooldown > 0:
+            down -= 1
+            continue
+        
+        if time < 20:
+            if times > 1:
+                times = math.ceil(times / 2)
+                down = 23
+        elif time > 45:
+            if times * 23 <= 2 * (10**4):
+                times *= 23
+                down = 33
+    
+    return instances
