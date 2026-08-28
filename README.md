@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 2 | 2 | 0 | 0 |
+| LeetCode | 3 | 3 | 0 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **2** | **2** | **0** | **0** |
+| **Total** | **3** | **3** | **0** | **0** |
 
 ## Solved Problems
 
@@ -17,4 +17,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | --- | --- | --- | --- | --- | --- |
 | 1 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/104_MaximumDepthOfBinaryTree.py) |
 | 2 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode | Easy | PYTHON3 | [Code](./13_RomanToInteger/13_RomanToInteger.py) |
+| 3 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./226_InvertBinaryTree/226_InvertBinaryTree.py) |
 <!-- COMMITDSA_END -->
