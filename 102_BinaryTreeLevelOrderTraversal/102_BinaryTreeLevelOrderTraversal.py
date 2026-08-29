@@ -18,7 +18,7 @@ class Solution:
         visited = []
         queue = deque([root])
 
-        visited.append([root.val])
+        #visited.append([root.val])
         while queue:
             size = len(queue)
             arr = []
@@ -26,15 +26,13 @@ class Solution:
             for _ in range(size):
                 s = queue.popleft()
 
+                arr.append(s.val)
+
                 if(s.left):
-                    if (s.left.val not in visited):
-                        arr.append(s.left.val)
-                        queue.append(s.left)
+                    queue.append(s.left)
                 
                 if(s.right):
-                    if (s.right.val not in visited):
-                        arr.append(s.right.val)
-                        queue.append(s.right)
+                    queue.append(s.right)
 
             if len(arr) != 0:
                 visited.append(arr)
