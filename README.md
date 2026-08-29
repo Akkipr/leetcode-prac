@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 4 | 4 | 0 | 0 |
+| LeetCode | 5 | 5 | 0 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **4** | **4** | **0** | **0** |
+| **Total** | **5** | **5** | **0** | **0** |
 
 ## Solved Problems
 
@@ -19,4 +19,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 2 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/104_MaximumDepthOfBinaryTree.py) |
 | 3 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode | Easy | PYTHON3 | [Code](./13_RomanToInteger/13_RomanToInteger.py) |
 | 4 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./226_InvertBinaryTree/226_InvertBinaryTree.py) |
+| 5 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./543_DiameterOfBinaryTree/543_DiameterOfBinaryTree.py) |
 <!-- COMMITDSA_END -->
