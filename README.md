@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 7 | 6 | 1 | 0 |
+| LeetCode | 8 | 6 | 2 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **7** | **6** | **1** | **0** |
+| **Total** | **8** | **6** | **2** | **0** |
 
 ## Solved Problems
 
@@ -22,4 +22,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 5 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./226_InvertBinaryTree/226_InvertBinaryTree.py) |
 | 6 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./543_DiameterOfBinaryTree/543_DiameterOfBinaryTree.py) |
 | 7 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./102_BinaryTreeLevelOrderTraversal/102_BinaryTreeLevelOrderTraversal.py) |
+| 8 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | PYTHON3 | [Code](./199_BinaryTreeRightSideView/199_BinaryTreeRightSideView.py) |
 <!-- COMMITDSA_END -->
