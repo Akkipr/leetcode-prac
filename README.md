@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 13 | 6 | 7 | 0 |
+| LeetCode | 14 | 6 | 8 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **13** | **6** | **7** | **0** |
+| **Total** | **14** | **6** | **8** | **0** |
 
 ## Solved Problems
 
@@ -27,5 +27,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 10 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
 | 11 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
 | 12 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
-| 13 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 13 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 14 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
 <!-- COMMITDSA_END -->
