@@ -16,6 +16,40 @@ from typing import Optional
 from collections import deque
 class Solution:
     def cloneGraph(self, node: Optional['Node']) -> Optional['Node']:
+        if node is None:
+            return 
+        start = node
+        stack = [start]
+        dictionary = {}
+        visited = set()
+        visited.add(start)
+
+        while stack:
+            s = stack.pop(0)
+            dictionary[s] = Node(val=s.val)
+
+            for neighbor in s.neighbors:
+                if neighbor not in visited:
+                    visited.add(neighbor)
+                    stack.append(neighbor)
+        
+        for key, val in dictionary.items():
+            for nei in key.neighbors:
+                new_nei = dictionary[nei]
+                val.neighbors.append(new_nei)
+        
+        return dictionary[start]
+
+
+
+
+
+
+
+
+
+        '''
+        ORIGINAL
         seen = []
         seen2 = []
         stack = [node]
@@ -34,7 +68,6 @@ class Solution:
                 seen2.append(r)
 
                 for neighbor in s.neighbors:
-                    print(neighbor.val)
                     ok: Optional['Node'] = Node(neighbor.val)
                     for i in range(len(seen)):
                         if seen[i] == neighbor:
@@ -47,4 +80,5 @@ class Solution:
                     stack2.append(ok)
 
         return current_node
+        '''
         
