@@ -21,7 +21,7 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode | Easy | PYTHON3 | [Code](./13_RomanToInteger/13_RomanToInteger.py) |
 | 5 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./226_InvertBinaryTree/226_InvertBinaryTree.py) |
 | 6 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./543_DiameterOfBinaryTree/543_DiameterOfBinaryTree.py) |
-| 7 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | LeetCode | Easy | PYTHON3 | [Code](./LeetCode/Easy/572_SubtreeOfAnotherTree.py) |
+| 7 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | LeetCode | Easy | PYTHON3 | [Code](./572_SubtreeOfAnotherTree/572_SubtreeOfAnotherTree.py) |
 | 8 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | LeetCode | Easy | PYTHON3 | [Code](./733_FloodFill/733_FloodFill.py) |
 | 9 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./102_BinaryTreeLevelOrderTraversal/102_BinaryTreeLevelOrderTraversal.py) |
 | 10 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./105_ConstructBinaryTreeFromPreorderAndInorderTraversal/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.py) |
