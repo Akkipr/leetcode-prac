@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 18 | 9 | 9 | 0 |
+| LeetCode | 19 | 10 | 9 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **18** | **9** | **9** | **0** |
+| **Total** | **19** | **10** | **9** | **0** |
 
 ## Solved Problems
 
@@ -24,13 +24,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 7 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./543_DiameterOfBinaryTree/543_DiameterOfBinaryTree.py) |
 | 8 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | LeetCode | Easy | PYTHON3 | [Code](./572_SubtreeOfAnotherTree/572_SubtreeOfAnotherTree.py) |
 | 9 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | LeetCode | Easy | PYTHON3 | [Code](./733_FloodFill/733_FloodFill.py) |
-| 10 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./102_BinaryTreeLevelOrderTraversal/102_BinaryTreeLevelOrderTraversal.py) |
-| 11 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./105_ConstructBinaryTreeFromPreorderAndInorderTraversal/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.py) |
-| 12 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | LeetCode | Medium | PYTHON3 | [Code](./133_CloneGraph/133_CloneGraph.py) |
-| 13 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | PYTHON3 | [Code](./199_BinaryTreeRightSideView/199_BinaryTreeRightSideView.py) |
-| 14 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
-| 15 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
-| 16 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
-| 17 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
-| 18 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 10 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | LeetCode | Easy | PYTHON3 | [Code](./836_RectangleOverlap/836_RectangleOverlap.py) |
+| 11 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./102_BinaryTreeLevelOrderTraversal/102_BinaryTreeLevelOrderTraversal.py) |
+| 12 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./105_ConstructBinaryTreeFromPreorderAndInorderTraversal/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.py) |
+| 13 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | LeetCode | Medium | PYTHON3 | [Code](./133_CloneGraph/133_CloneGraph.py) |
+| 14 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | PYTHON3 | [Code](./199_BinaryTreeRightSideView/199_BinaryTreeRightSideView.py) |
+| 15 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
+| 16 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
+| 17 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
+| 18 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 19 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
 <!-- COMMITDSA_END -->
