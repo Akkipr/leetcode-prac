@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 24 | 11 | 13 | 0 |
+| LeetCode | 25 | 11 | 14 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **24** | **11** | **13** | **0** |
+| **Total** | **25** | **11** | **14** | **0** |
 
 ## Solved Problems
 
@@ -35,8 +35,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 18 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | PYTHON3 | [Code](./2139_MinimumMovesToReachTargetScore/2139_MinimumMovesToReachTargetScore.py) |
 | 19 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
 | 20 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
-| 21 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
-| 22 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
-| 23 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 24 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 21 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
+| 22 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 23 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
+| 24 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
+| 25 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
 <!-- COMMITDSA_END -->
