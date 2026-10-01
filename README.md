@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 26 | 12 | 14 | 0 |
+| LeetCode | 27 | 13 | 14 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **26** | **12** | **14** | **0** |
+| **Total** | **27** | **13** | **14** | **0** |
 
 ## Solved Problems
 
@@ -21,24 +21,25 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 4 | [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | LeetCode | Easy | PYTHON3 | [Code](./13_RomanToInteger/13_RomanToInteger.py) |
 | 5 | [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | LeetCode | Easy | MYSQL | [Code](./183_CustomersWhoNeverOrder/183_CustomersWhoNeverOrder.sql) |
 | 6 | [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | LeetCode | Easy | PYTHON3 | [Code](./206_ReverseLinkedList/206_ReverseLinkedList.py) |
-| 7 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./226_InvertBinaryTree/226_InvertBinaryTree.py) |
-| 8 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./543_DiameterOfBinaryTree/543_DiameterOfBinaryTree.py) |
-| 9 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | LeetCode | Easy | PYTHON3 | [Code](./572_SubtreeOfAnotherTree/572_SubtreeOfAnotherTree.py) |
-| 10 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | PYTHON3 | [Code](./704_BinarySearch/704_BinarySearch.py) |
-| 11 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | LeetCode | Easy | PYTHON3 | [Code](./733_FloodFill/733_FloodFill.py) |
-| 12 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | LeetCode | Easy | PYTHON3 | [Code](./836_RectangleOverlap/836_RectangleOverlap.py) |
-| 13 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./102_BinaryTreeLevelOrderTraversal/102_BinaryTreeLevelOrderTraversal.py) |
-| 14 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./105_ConstructBinaryTreeFromPreorderAndInorderTraversal/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.py) |
-| 15 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | LeetCode | Medium | PYTHON3 | [Code](./133_CloneGraph/133_CloneGraph.py) |
-| 16 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./153_FindMinimumInRotatedSortedArray/153_FindMinimumInRotatedSortedArray.py) |
-| 17 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | PYTHON3 | [Code](./199_BinaryTreeRightSideView/199_BinaryTreeRightSideView.py) |
-| 18 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
-| 19 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | PYTHON3 | [Code](./2139_MinimumMovesToReachTargetScore/2139_MinimumMovesToReachTargetScore.py) |
-| 20 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
-| 21 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
-| 22 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
-| 23 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
-| 24 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
-| 25 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 26 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 7 | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | LeetCode | Easy | PYTHON3 | [Code](./21_MergeTwoSortedLists/21_MergeTwoSortedLists.py) |
+| 8 | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./226_InvertBinaryTree/226_InvertBinaryTree.py) |
+| 9 | [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) | LeetCode | Easy | PYTHON3 | [Code](./543_DiameterOfBinaryTree/543_DiameterOfBinaryTree.py) |
+| 10 | [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | LeetCode | Easy | PYTHON3 | [Code](./572_SubtreeOfAnotherTree/572_SubtreeOfAnotherTree.py) |
+| 11 | [704. Binary Search](https://leetcode.com/problems/binary-search/) | LeetCode | Easy | PYTHON3 | [Code](./704_BinarySearch/704_BinarySearch.py) |
+| 12 | [733. Flood Fill](https://leetcode.com/problems/flood-fill/) | LeetCode | Easy | PYTHON3 | [Code](./733_FloodFill/733_FloodFill.py) |
+| 13 | [836. Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | LeetCode | Easy | PYTHON3 | [Code](./836_RectangleOverlap/836_RectangleOverlap.py) |
+| 14 | [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./102_BinaryTreeLevelOrderTraversal/102_BinaryTreeLevelOrderTraversal.py) |
+| 15 | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | LeetCode | Medium | PYTHON3 | [Code](./105_ConstructBinaryTreeFromPreorderAndInorderTraversal/105_ConstructBinaryTreeFromPreorderAndInorderTraversal.py) |
+| 16 | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | LeetCode | Medium | PYTHON3 | [Code](./133_CloneGraph/133_CloneGraph.py) |
+| 17 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./153_FindMinimumInRotatedSortedArray/153_FindMinimumInRotatedSortedArray.py) |
+| 18 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | PYTHON3 | [Code](./199_BinaryTreeRightSideView/199_BinaryTreeRightSideView.py) |
+| 19 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
+| 20 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | PYTHON3 | [Code](./2139_MinimumMovesToReachTargetScore/2139_MinimumMovesToReachTargetScore.py) |
+| 21 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
+| 22 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
+| 23 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
+| 24 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 25 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
+| 26 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
+| 27 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
 <!-- COMMITDSA_END -->
