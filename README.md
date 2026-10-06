@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 33 | 15 | 18 | 0 |
+| LeetCode | 34 | 15 | 19 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **33** | **15** | **18** | **0** |
+| **Total** | **34** | **15** | **19** | **0** |
 
 ## Solved Problems
 
@@ -47,5 +47,6 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 30 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
 | 31 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
 | 32 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 33 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 33 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
+| 34 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
 <!-- COMMITDSA_END -->
