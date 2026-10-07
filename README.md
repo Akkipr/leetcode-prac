@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 34 | 15 | 19 | 0 |
+| LeetCode | 35 | 15 | 20 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **34** | **15** | **19** | **0** |
+| **Total** | **35** | **15** | **20** | **0** |
 
 ## Solved Problems
 
@@ -40,13 +40,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 23 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode | Medium | PYTHON3 | [Code](./2_AddTwoNumbers/2_AddTwoNumbers.py) |
 | 24 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
 | 25 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | PYTHON3 | [Code](./2139_MinimumMovesToReachTargetScore/2139_MinimumMovesToReachTargetScore.py) |
-| 26 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
-| 27 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
-| 28 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | Medium | PYTHON3 | [Code](./287_FindTheDuplicateNumber/287_FindTheDuplicateNumber.py) |
-| 29 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
-| 30 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
-| 31 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
-| 32 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 33 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
-| 34 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 26 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | PYTHON3 | [Code](./215_KthLargestElementInAnArray/215_KthLargestElementInAnArray.py) |
+| 27 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
+| 28 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
+| 29 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | Medium | PYTHON3 | [Code](./287_FindTheDuplicateNumber/287_FindTheDuplicateNumber.py) |
+| 30 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
+| 31 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 32 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
+| 33 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
+| 34 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
+| 35 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
 <!-- COMMITDSA_END -->
