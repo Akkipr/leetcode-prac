@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 36 | 15 | 21 | 0 |
+| LeetCode | 37 | 15 | 22 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **36** | **15** | **21** | **0** |
+| **Total** | **37** | **15** | **22** | **0** |
 
 ## Solved Problems
 
@@ -45,10 +45,11 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 28 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
 | 29 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | Medium | PYTHON3 | [Code](./287_FindTheDuplicateNumber/287_FindTheDuplicateNumber.py) |
 | 30 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
-| 31 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./621_TaskScheduler/621_TaskScheduler.py) |
-| 32 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
-| 33 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
-| 34 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 35 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
-| 36 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 31 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | LeetCode | Medium | PYTHON3 | [Code](./355_DesignTwitter/355_DesignTwitter.py) |
+| 32 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./621_TaskScheduler/621_TaskScheduler.py) |
+| 33 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 34 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
+| 35 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
+| 36 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
+| 37 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
 <!-- COMMITDSA_END -->
