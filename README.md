@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 38 | 16 | 22 | 0 |
+| LeetCode | 39 | 16 | 23 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **38** | **16** | **22** | **0** |
+| **Total** | **39** | **16** | **23** | **0** |
 
 ## Solved Problems
 
@@ -53,4 +53,5 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 36 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
 | 37 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
 | 38 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 39 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LeetCode | Medium | PYTHON3 | [Code](./994_RottingOranges/994_RottingOranges.py) |
 <!-- COMMITDSA_END -->
