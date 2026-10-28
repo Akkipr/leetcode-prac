@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 46 | 16 | 30 | 0 |
+| LeetCode | 47 | 16 | 31 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **46** | **16** | **30** | **0** |
+| **Total** | **47** | **16** | **31** | **0** |
 
 ## Solved Problems
 
@@ -56,9 +56,10 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 39 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | LeetCode | Medium | PYTHON3 | [Code](./684_RedundantConnection/684_RedundantConnection.py) |
 | 40 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
 | 41 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
-| 42 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | LeetCode | Medium | PYTHON3 | [Code](./785_IsGraphBipartite/785_IsGraphBipartite.py) |
-| 43 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 44 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
-| 45 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
-| 46 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LeetCode | Medium | PYTHON3 | [Code](./994_RottingOranges/994_RottingOranges.py) |
+| 42 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | LeetCode | Medium | PYTHON3 | [Code](./752_OpenTheLock/752_OpenTheLock.py) |
+| 43 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | LeetCode | Medium | PYTHON3 | [Code](./785_IsGraphBipartite/785_IsGraphBipartite.py) |
+| 44 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
+| 45 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
+| 46 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 47 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LeetCode | Medium | PYTHON3 | [Code](./994_RottingOranges/994_RottingOranges.py) |
 <!-- COMMITDSA_END -->
