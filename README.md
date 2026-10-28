@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 44 | 16 | 28 | 0 |
+| LeetCode | 45 | 16 | 29 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **44** | **16** | **28** | **0** |
+| **Total** | **45** | **16** | **29** | **0** |
 
 ## Solved Problems
 
@@ -50,13 +50,14 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 33 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
 | 34 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | LeetCode | Medium | PYTHON3 | [Code](./355_DesignTwitter/355_DesignTwitter.py) |
 | 35 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | LeetCode | Medium | PYTHON3 | [Code](./417_PacificAtlanticWaterFlow/417_PacificAtlanticWaterFlow.py) |
-| 36 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | LeetCode | Medium | PYTHON3 | [Code](./547_NumberOfProvinces/547_NumberOfProvinces.py) |
-| 37 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./621_TaskScheduler/621_TaskScheduler.py) |
-| 38 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | LeetCode | Medium | PYTHON3 | [Code](./684_RedundantConnection/684_RedundantConnection.py) |
-| 39 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
-| 40 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
-| 41 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 42 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
-| 43 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
-| 44 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LeetCode | Medium | PYTHON3 | [Code](./994_RottingOranges/994_RottingOranges.py) |
+| 36 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./542_01Matrix/542_01Matrix.py) |
+| 37 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | LeetCode | Medium | PYTHON3 | [Code](./547_NumberOfProvinces/547_NumberOfProvinces.py) |
+| 38 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./621_TaskScheduler/621_TaskScheduler.py) |
+| 39 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | LeetCode | Medium | PYTHON3 | [Code](./684_RedundantConnection/684_RedundantConnection.py) |
+| 40 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 41 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
+| 42 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
+| 43 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
+| 44 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 45 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LeetCode | Medium | PYTHON3 | [Code](./994_RottingOranges/994_RottingOranges.py) |
 <!-- COMMITDSA_END -->
