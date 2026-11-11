@@ -7,9 +7,9 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 
 | Platform | Total Solved | Easy | Medium | Hard |
 | --- | --- | --- | --- | --- |
-| LeetCode | 48 | 17 | 31 | 0 |
+| LeetCode | 49 | 17 | 32 | 0 |
 | GeeksforGeeks | 0 | 0 | 0 | 0 |
-| **Total** | **48** | **17** | **31** | **0** |
+| **Total** | **49** | **17** | **32** | **0** |
 
 ## Solved Problems
 
@@ -38,29 +38,30 @@ Welcome to my DSA solutions portfolio! This repository contains my solved proble
 | 21 | [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | LeetCode | Medium | PYTHON3 | [Code](./138_CopyListWithRandomPointer/138_CopyListWithRandomPointer.py) |
 | 22 | [146. LRU Cache](https://leetcode.com/problems/lru-cache/) | LeetCode | Medium | PYTHON3 | [Code](./146_LRUCache/146_LRUCache.py) |
 | 23 | [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./153_FindMinimumInRotatedSortedArray/153_FindMinimumInRotatedSortedArray.py) |
-| 24 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | PYTHON3 | [Code](./199_BinaryTreeRightSideView/199_BinaryTreeRightSideView.py) |
-| 25 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode | Medium | PYTHON3 | [Code](./2_AddTwoNumbers/2_AddTwoNumbers.py) |
-| 26 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
-| 27 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | LeetCode | Medium | PYTHON3 | [Code](./207_CourseSchedule.py/207_CourseSchedule.py) |
-| 28 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | LeetCode | Medium | PYTHON3 | [Code](./210_CourseScheduleII/210_CourseScheduleII.py) |
-| 29 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | PYTHON3 | [Code](./2139_MinimumMovesToReachTargetScore/2139_MinimumMovesToReachTargetScore.py) |
-| 30 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | PYTHON3 | [Code](./215_KthLargestElementInAnArray/215_KthLargestElementInAnArray.py) |
-| 31 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
-| 32 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
-| 33 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | Medium | PYTHON3 | [Code](./287_FindTheDuplicateNumber/287_FindTheDuplicateNumber.py) |
-| 34 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
-| 35 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | LeetCode | Medium | PYTHON3 | [Code](./355_DesignTwitter/355_DesignTwitter.py) |
-| 36 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | LeetCode | Medium | PYTHON3 | [Code](./417_PacificAtlanticWaterFlow/417_PacificAtlanticWaterFlow.py) |
-| 37 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./542_01Matrix/542_01Matrix.py) |
-| 38 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | LeetCode | Medium | PYTHON3 | [Code](./547_NumberOfProvinces/547_NumberOfProvinces.py) |
-| 39 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./621_TaskScheduler/621_TaskScheduler.py) |
-| 40 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | LeetCode | Medium | PYTHON3 | [Code](./684_RedundantConnection/684_RedundantConnection.py) |
-| 41 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
-| 42 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
-| 43 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | LeetCode | Medium | PYTHON3 | [Code](./752_OpenTheLock/752_OpenTheLock.py) |
-| 44 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | LeetCode | Medium | PYTHON3 | [Code](./785_IsGraphBipartite/785_IsGraphBipartite.py) |
-| 45 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
-| 46 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
-| 47 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
-| 48 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LeetCode | Medium | PYTHON3 | [Code](./994_RottingOranges/994_RottingOranges.py) |
+| 24 | [198. House Robber](https://leetcode.com/problems/house-robber/) | LeetCode | Medium | PYTHON3 | [Code](./198_HouseRobber/198_HouseRobber.py) |
+| 25 | [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | LeetCode | Medium | PYTHON3 | [Code](./199_BinaryTreeRightSideView/199_BinaryTreeRightSideView.py) |
+| 26 | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | LeetCode | Medium | PYTHON3 | [Code](./2_AddTwoNumbers/2_AddTwoNumbers.py) |
+| 27 | [200. Number of Islands](https://leetcode.com/problems/number-of-islands/) | LeetCode | Medium | PYTHON3 | [Code](./200_NumberOfIslands/200_NumberOfIslands.py) |
+| 28 | [207. Course Schedule](https://leetcode.com/problems/course-schedule/) | LeetCode | Medium | PYTHON3 | [Code](./207_CourseSchedule.py/207_CourseSchedule.py) |
+| 29 | [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | LeetCode | Medium | PYTHON3 | [Code](./210_CourseScheduleII/210_CourseScheduleII.py) |
+| 30 | [2139. Minimum Moves to Reach Target Score](https://leetcode.com/problems/minimum-moves-to-reach-target-score/) | LeetCode | Medium | PYTHON3 | [Code](./2139_MinimumMovesToReachTargetScore/2139_MinimumMovesToReachTargetScore.py) |
+| 31 | [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | LeetCode | Medium | PYTHON3 | [Code](./215_KthLargestElementInAnArray/215_KthLargestElementInAnArray.py) |
+| 32 | [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | LeetCode | Medium | PYTHON3 | [Code](./230_KthSmallestElementInABST/230_KthSmallestElementInABST.py) |
+| 33 | [235. Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./235_LowestCommonAncestorOfABinarySearchTree/235_LowestCommonAncestorOfABinarySearchTree.py) |
+| 34 | [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | LeetCode | Medium | PYTHON3 | [Code](./287_FindTheDuplicateNumber/287_FindTheDuplicateNumber.py) |
+| 35 | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | PYTHON3 | [Code](./33_SearchInRotatedSortedArray/33_SearchInRotatedSortedArray.py) |
+| 36 | [355. Design Twitter](https://leetcode.com/problems/design-twitter/) | LeetCode | Medium | PYTHON3 | [Code](./355_DesignTwitter/355_DesignTwitter.py) |
+| 37 | [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | LeetCode | Medium | PYTHON3 | [Code](./417_PacificAtlanticWaterFlow/417_PacificAtlanticWaterFlow.py) |
+| 38 | [542. 01 Matrix](https://leetcode.com/problems/01-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./542_01Matrix/542_01Matrix.py) |
+| 39 | [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | LeetCode | Medium | PYTHON3 | [Code](./547_NumberOfProvinces/547_NumberOfProvinces.py) |
+| 40 | [621. Task Scheduler](https://leetcode.com/problems/task-scheduler/) | LeetCode | Medium | PYTHON3 | [Code](./621_TaskScheduler/621_TaskScheduler.py) |
+| 41 | [684. Redundant Connection](https://leetcode.com/problems/redundant-connection/) | LeetCode | Medium | PYTHON3 | [Code](./684_RedundantConnection/684_RedundantConnection.py) |
+| 42 | [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | LeetCode | Medium | PYTHON3 | [Code](./695_MaxAreaOfIsland/695_MaxAreaOfIsland.py) |
+| 43 | [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | LeetCode | Medium | PYTHON3 | [Code](./74_SearchA2DMatrix/74_SearchA2DMatrix.py) |
+| 44 | [752. Open the Lock](https://leetcode.com/problems/open-the-lock/) | LeetCode | Medium | PYTHON3 | [Code](./752_OpenTheLock/752_OpenTheLock.py) |
+| 45 | [785. Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | LeetCode | Medium | PYTHON3 | [Code](./785_IsGraphBipartite/785_IsGraphBipartite.py) |
+| 46 | [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | LeetCode | Medium | PYTHON3 | [Code](./875_KokoEatingBananas/875_KokoEatingBananas.py) |
+| 47 | [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | LeetCode | Medium | PYTHON3 | [Code](./973_KClosestPointsToOrigin/973_KClosestPointsToOrigin.py) |
+| 48 | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | LeetCode | Medium | PYTHON3 | [Code](./98_ValidateBinarySearchTree/98_ValidateBinarySearchTree.py) |
+| 49 | [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | LeetCode | Medium | PYTHON3 | [Code](./994_RottingOranges/994_RottingOranges.py) |
 <!-- COMMITDSA_END -->
